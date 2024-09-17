@@ -1,1 +1,5 @@
-# SvDima-IPZs-24-2
+const computername = "LapTop";
+Const computeryear = 2017;
+let computerprice = 5000;
+let avaible= true;
+let buyername = null;
